@@ -1,0 +1,45 @@
+h1 {
+color: #DC143C;
+text-align: center;
+font-family: "Garamond", serif;
+font-size:30px
+}
+h2 {
+color: #DC143C;
+text-align: center;
+font-family: "Garamond", serif;
+  
+}
+h3 {
+color: #DC143C;
+text-align: center;
+font-family: "Garamond", serif;
+}
+
+h4 {
+color: #DC143C;
+text-align: center;
+font-family: "Garamond", serif;
+}
+h5 {
+color: #DC143C;
+text-align: center;
+font-family: "Garamond", serif;
+}
+h6 {
+color: #DC143C;
+text-align: center;
+font-family: "Garamond", serif;
+}
+
+p {
+  color: #DC143C;
+  text-align: center;
+  font-family: "Garamond", serif;
+  font-size: 14px;
+}
+
+
+body {
+  background: linear-gradient(0, #4B0082, #E6E6FA);
+}
